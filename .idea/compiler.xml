@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="m1-java-capstone-catering-system" target="1.5" />
       <module name="Module-1-Coding-Assessment" target="1.8" />
+      <module name="project" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

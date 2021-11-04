@@ -4,7 +4,6 @@ public class Account {
 
     double accountBalance;
 
-
     public double addMoneyToAccount(double moneyToAdd){
         if(moneyToAdd <= 5000 && moneyToAdd >= 0){
             this.accountBalance += moneyToAdd;
