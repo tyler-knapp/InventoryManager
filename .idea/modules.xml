@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../team7-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" filepath="$PROJECT_DIR$/../team7-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project.iml" filepath="$PROJECT_DIR$/project.iml" />
+    </modules>
+  </component>
+</project>
