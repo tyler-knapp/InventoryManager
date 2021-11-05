@@ -53,6 +53,11 @@ public class Menu {
         }
     }
 
+    public void showUpdatedAccountBalance(Account account){
+        System.out.println("Your updated account balance is: $"+ account.getAccountBalance());
+        System.out.println();
+    }
+
     public String inventoryMenuSelection(){
         System.out.println();
         System.out.println("What would you like to do next? ");
